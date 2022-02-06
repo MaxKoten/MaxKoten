@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MaxKoten
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++
-- 💞️ I don't looking for collaboration
+- 💞️ I don't looking for collaborations
 - 📫 How to reach me ... maybe later
 
 <!---
